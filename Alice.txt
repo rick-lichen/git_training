@@ -1,8 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-Test test
-Second change
-Third change. How many changes are there?
-=======
-Changessss
->>>>>>> de96ad2a807e31a661706fc5c1df14359f56e8f4
+This is the change that'll resolve conflicts.
