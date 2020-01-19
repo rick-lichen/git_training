@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is the change that'll resolve conflicts.
 This is a new change :O
+This is another change 
